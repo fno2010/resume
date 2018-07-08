@@ -1,4 +1,5 @@
 SRC = $(wildcard *.md)
+PYTHON=python2
 
 PDFS=$(SRC:.md=.pdf)
 HTML=$(SRC:.md=.html)
@@ -10,10 +11,10 @@ pdf:   clean $(PDFS)
 html:  clean $(HTML)
 
 %.html: %.md
-	python resume.py html $(GRAVATAR_OPTION) < $< | pandoc -t html -c resume.css -o $@
+	$(PYTHON) resume.py html $(GRAVATAR_OPTION) < $< | pandoc -t html -c resume.css -o $@
 
 %.pdf:  %.md $(LATEX_TEMPLATE)
-	python resume.py tex < $< | pandoc $(PANDOCARGS) --variable subparagraph --template=$(LATEX_TEMPLATE) -H header.tex -o $@
+	$(PYTHON) resume.py tex < $< | pandoc $(PANDOCARGS) --variable subparagraph --template=$(LATEX_TEMPLATE) -H header.tex -o $@
 
 ifeq ($(OS),Windows_NT)
   # on Windows
