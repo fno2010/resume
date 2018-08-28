@@ -18,22 +18,15 @@ Interests
 Project Experience
 ------------------
 
-*   **SeL4-based HD-ElastOS** (Kortide, Shanghai)
+*   **OpenDaylight ALTO** (Redmond, WA)
 
-    *Intern*, Octobor 2014 - April 2015
+    *Project Contact*, 2015 - present
 
-    *   Ported micro-kernel seL4 to some specific hardware platforms (pandanboard,
-        lamobo M1, etc.).
-    *   Ported ElastOS on top of seL4.
-
-*   **Devopen: SDN IDE**
-
-    *Project Lead*, 2016 - 2017
-
-	-   The first IDE supporting visual programming for Software-Defined Networking.
-    -   Integrate the complete SDN lifecycle of Dev, Op and Use.
-	-   Gaven the tutorial and demonstration in OpenDaylight Summit 2016 and
-        SuperComputing 2016.
+	*   Official open source implementation of the Application-Layer Traffic
+        Optimization (ALTO) protocol.
+	-   Designed and Implemented the main building blocks of ALTO in OpenDaylight.
+    -   Manage the project in the OpenDaylight community and review the code.
+    *   Created OpenALTO community (<https://github.com/openalto/>).
 
 *   **Unicorn: Unified Resource Orchestration for Multi-Domain, Geo-Distributed Data Analytics**
 
@@ -45,15 +38,24 @@ Project Experience
         deploy the system in Caltech HEP Data Center.
     -   Demonstrated the prototype in SuperComputing 2017.
 
-*   **OpenDaylight ALTO** (Redmond, WA)
+*   **Devopen: SDN IDE**
 
-    *Project Contact*, 2015 - present
+    *Project Lead*, 2016 - 2017
 
-	*   Official open source implementation of the Application-Layer Traffic
-        Optimization (ALTO) protocol.
-	-   Designed and Implemented the main building blocks of ALTO in OpenDaylight.
-    -   Manage the project in the OpenDaylight community and review the code.
-    *   Created OpenALTO community (<https://github.com/openalto/>).
+	-   The first IDE supporting visual programming for Software-Defined Networking.
+    -   Integrate the complete SDN lifecycle of Dev, Op and Use.
+	-   Gaven the tutorial and demonstration in OpenDaylight Summit 2016 and
+        SuperComputing 2016.
+
+*   **SeL4-based HD-ElastOS** (Kortide, Shanghai)
+
+    *Intern*, Octobor 2014 - April 2015
+
+    -   A Component Assembly Runtime (CAR) embedded operating system on top of
+        state-of-the-art micro kernel.
+    *   Ported micro-kernel seL4 to some specific hardware platforms (pandanboard,
+        lamobo M1, etc.).
+    *   Ported ElastOS on top of seL4.
 
 
 Education
@@ -61,13 +63,13 @@ Education
 
 *   **Tongji University**
 
-    *Undergraduate Student (Mathematics)*, 2011.09 - 2013.01
-
-    *B.Sc. (Computer Science)*, 2013.03 - 2015.07
+    *Ph.D. Student (Computer Science)*, 2015.09 - now
 
     *Master Student (Computer Science)*, 2015.09 - 2017.03
 
-    *Ph.D. Student (Computer Science)*, 2015.09 - now
+    *B.Sc. (Computer Science)*, 2013.03 - 2015.07
+
+    *Undergraduate Student (Mathematics)*, 2011.09 - 2013.01
 
 
 Awards
@@ -98,6 +100,20 @@ Skills
 *   Familiar with full-stack web development.
 
 *   Familiar with embedded programming.
+
+
+Biography
+---------
+
+`<img src="img/standard-pic.jpg" align="left" width="150" style="margin: 0 15px 15px 0" />`{=html}
+**Jingxuan Zhang** is a PhD candidate in the Department of Computer Science at
+Tongji University, advised by Prof. Y. Richard Yang. His doctoral research
+focuses on network resource discovery, abstraction and programming consistency
+for large-scale data analytics systems. He is also an active member of IETF
+ALTO WG and OpenDaylight open source community. He is sponsored by China
+Scholarship Council to be a joint PhD student at Yale university from 2018 to
+2020.
+<br style="clear: both;" />
 
 
 ---

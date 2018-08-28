@@ -11,7 +11,7 @@ pdf:   clean $(PDFS)
 html:  clean $(HTML)
 
 %.html: %.md
-	$(PYTHON) resume.py html $(GRAVATAR_OPTION) < $< | pandoc -t html -c resume.css -o $@
+	$(PYTHON) resume.py html $(GRAVATAR_OPTION) < $< | pandoc -t html -c resume.css -s -M pagetitle="Resume" -o $@
 
 %.pdf:  %.md $(LATEX_TEMPLATE)
 	$(PYTHON) resume.py tex < $< | pandoc $(PANDOCARGS) --variable subparagraph --template=$(LATEX_TEMPLATE) -H header.tex -o $@
