@@ -18,7 +18,7 @@ Interests
 Project Experience
 ------------------
 
-*   **OpenDaylight ALTO** (Redmond, WA)
+*   **OpenDaylight ALTO**
 
     *Project Contact*, 2015 - present
 
@@ -82,14 +82,16 @@ Awards
 *   Second prize in Chinese National Undergraduate Electronic Design Contest 2014.
 
 
-Selected Publications
+Publications
 ---------------------
 
-1.  Xiang, Q., **Zhang, J.**, Wang, X., Liu, J., Guok, C., Le, F., MacAuley, J., Newman, H. and Yang, Y.R. 2018. Fine-Grained, Multi-Domain Network Resource Abstraction as a Fundamental Primitive to Enable High-Performance, Collaborative Data Sciences. In *Conference of the ACM Special Interest Group on Data Communication (SIGCOMM)*, ACM.
+1.  Xiang, Q., **Zhang, J.**, Wang, X., Liu, J., Guok, C., Le, F., MacAuley, J., Newman, H. and Yang, Y.R. 2018. Fine-Grained, Multi-Domain Network Resource Abstraction as a Fundamental Primitive to Enable High-Performance, Collaborative Data Sciences. In the *International Conference for High Performance Computing, Networking, Storage and Analysis (SC)*, ACM.
 
-1.  Gao, K., **Zhang, J.**, Yang, Y.R. and Bi, J. 2018. Prophet: Fast Accurate Model-based Throughput Prediction for Reactive Flow in DC Networks. In *37th IEEE International Conference on Computer Communications (INFOCOM)*, IEEE, 720-728.
+1.  Gao, K., **Zhang, J.**, Yang, Y.R. and Bi, J. 2018. Prophet: Fast Accurate Model-based Throughput Prediction for Reactive Flow in DC Networks. In the *37th IEEE International Conference on Computer Communications (INFOCOM)*, IEEE, 720-728.
 
-1.  Wang, W., **Zhang, J.**, Guo, D., Xiang, Q., Huang, C., Chang, J. and Zhang, L. 2016. Towards an emerging cloudware paradigm for transparent computing. In *9th IEEE/ACM International Conference on Utility and Cloud Computing (UCC)*, IEEE, 43-48.
+1.  Xiang, Q., Wang, X., **Zhang, J.**, Newman, H., Yang, Y.R. and Liu, J. 2017. Unicorn: Unified Resource Orchestration for Multi-Domain, Geo-Distributed Data Analytics. In the *4th International Workshop on Innovating the Network for Data Intensive Science (INDIS)*, IEEE.
+
+1.  Wang, W., **Zhang, J.**, Guo, D., Xiang, Q., Huang, C., Chang, J. and Zhang, L. 2016. Towards an emerging cloudware paradigm for transparent computing. In the *9th IEEE/ACM International Conference on Utility and Cloud Computing (UCC)*, IEEE, 43-48.
 
 
 Skills
@@ -119,5 +121,4 @@ Scholarship Council to be a joint PhD student at Yale university from 2018 to
 ---
 
 Details for me, visit my homepage in github: <https://fno2010.github.io/>
-
 
