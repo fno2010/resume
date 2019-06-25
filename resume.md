@@ -4,15 +4,15 @@ Jingxuan (Jensen) Zhang
 [Markdown](http://fno2010.github.io/resume/resume.md) -> [PDF](http://fno2010.github.io/resume/resume.pdf), [HTML](http://fno2010.github.io/resume/resume.html)
 jingxuan.n.zhang@gmail.com
 (+86) 188-1759-8700
+(+1) 475-300-8033
 skype: fno2010@live.cn
 
-Interests
----------
+Research Interests
+------------------
 
-*   Love mathematics and logic, especially algebra.
-*   Love *Free Software*. I'm a very fan of RMS.
-*   DIY drone and the flight controller.
-*   Bicycling and playing harmonica.
+*   Networking resources abstraction and optimization
+*   Software-defined networking
+*   Networks for large-scale data analytics
 
 
 Project Experience
@@ -61,9 +61,13 @@ Project Experience
 Education
 ---------
 
+*   **Yale University**
+
+    *Visiting Assistant in Research (Computer Science)*, 2018.11 - now
+
 *   **Tongji University**
 
-    *Ph.D. Student (Computer Science)*, 2015.09 - now
+    *Ph.D. Student (Computer Science)*, 2017.03 - now
 
     *Master Student (Computer Science)*, 2015.09 - 2017.03
 
@@ -83,7 +87,7 @@ Awards
 
 
 Publications
----------------------
+------------
 
 1.  Xiang, Q., **Zhang, J.**, Wang, X., Liu, J., Guok, C., Le, F., MacAuley, J., Newman, H. and Yang, Y.R. 2018. Fine-Grained, Multi-Domain Network Resource Abstraction as a Fundamental Primitive to Enable High-Performance, Collaborative Data Sciences. In the *International Conference for High Performance Computing, Networking, Storage and Analysis (SC)*, ACM.
 
@@ -94,8 +98,8 @@ Publications
 1.  Wang, W., **Zhang, J.**, Guo, D., Xiang, Q., Huang, C., Chang, J. and Zhang, L. 2016. Towards an emerging cloudware paradigm for transparent computing. In the *9th IEEE/ACM International Conference on Utility and Cloud Computing (UCC)*, IEEE, 43-48.
 
 
-Skills
-------
+Programming Skills
+------------------
 
 *   Very experienced with development in OpenDaylight.
 
