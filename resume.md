@@ -63,7 +63,7 @@ Education
 
 *   **Yale University**
 
-    *Visiting Assistant in Research (Computer Science)*, 2018.11 - now
+    *Visiting Assistant in Research (Computer Science)*, 2018.11 - 2020.10
 
 *   **Tongji University**
 
@@ -89,13 +89,21 @@ Awards
 Publications
 ------------
 
-1.  Xiang, Q., **Zhang, J.**, Wang, X., Liu, J., Guok, C., Le, F., MacAuley, J., Newman, H. and Yang, Y.R. 2018. Fine-Grained, Multi-Domain Network Resource Abstraction as a Fundamental Primitive to Enable High-Performance, Collaborative Data Sciences. In the *International Conference for High Performance Computing, Networking, Storage and Analysis (SC)*, ACM.
+1. Cheng Y., Luo N., **Zhang, J.**, Antonopoulos T., Piskac R., Xiang Q., 2021. Looking for the Maximum Independent Set: A New Perspective on the Stable Path Problem. In Proceedings of the *40th IEEE International Conference on Computer Communications (INFOCOM)*, IEEE (accepted).
 
-1.  Gao, K., **Zhang, J.**, Yang, Y.R. and Bi, J. 2018. Prophet: Fast Accurate Model-based Throughput Prediction for Reactive Flow in DC Networks. In the *37th IEEE International Conference on Computer Communications (INFOCOM)*, IEEE, 720-728.
+1. **Zhang, J.**, Yang, Y.R., 2020. COC: Hierarchical Coflow Ordering for WAN Bandwidth Optimization in Inter-Data Center. In Proceedings of the *Annual conference of the ACM Special Interest Group on Data Communication on the applications, technologies, architectures, and protocols for computer communication (SIGCOMM)*, ACM.
 
-1.  Xiang, Q., Wang, X., **Zhang, J.**, Newman, H., Yang, Y.R. and Liu, J. 2017. Unicorn: Unified Resource Orchestration for Multi-Domain, Geo-Distributed Data Analytics. In the *4th International Workshop on Innovating the Network for Data Intensive Science (INDIS)*, IEEE.
+1. **Zhang, J.**, Gao, K., Yang, Y.R. and Bi, J., 2020. Prophet: Toward Fast, Error-Tolerant Model-Based Throughput Prediction for Reactive Flows in DC Networks. In *Transactions on Networking (TON)*, IEEE/ACM.
 
-1.  Wang, W., **Zhang, J.**, Guo, D., Xiang, Q., Huang, C., Chang, J. and Zhang, L. 2016. Towards an emerging cloudware paradigm for transparent computing. In the *9th IEEE/ACM International Conference on Utility and Cloud Computing (UCC)*, IEEE, 43-48.
+1. Xiang, Q., **Zhang, J.**, Gao, K., Lim, Y.S., Le, F., Li, G. and Yang, Y.R., 2020, July. Toward Optimal Software-Defined Interdomain Routing. In Proceedings of the *39th IEEE International Conference on Computer Communications (INFOCOM)*, IEEE, 1529-1538.
+
+1. Xiang, Q., Wang, X., **Zhang, J.**, Newman, H., Yang, Y.R. and Liu, J., 2019. Unicorn: Unified Resource Orchestration for Multi-Domain, Geo-Distributed Data Analytics. In *Future Generation Computer Systems*, Elsevier.
+
+1.  Xiang, Q., **Zhang, J.**, Wang, X., Liu, J., Guok, C., Le, F., MacAuley, J., Newman, H. and Yang, Y.R., 2018. Fine-Grained, Multi-Domain Network Resource Abstraction as a Fundamental Primitive to Enable High-Performance, Collaborative Data Sciences. In Proceedings of the *International Conference for High Performance Computing, Networking, Storage and Analysis (SC)*, ACM.
+
+1.  Gao, K., **Zhang, J.**, Yang, Y.R. and Bi, J. 2018., Prophet: Fast Accurate Model-based Throughput Prediction for Reactive Flow in DC Networks. In Proceedings of the *37th IEEE International Conference on Computer Communications (INFOCOM)*, IEEE, 720-728.
+
+1.  Wang, W., **Zhang, J.**, Guo, D., Xiang, Q., Huang, C., Chang, J. and Zhang, L. 2016. Towards an emerging cloudware paradigm for transparent computing. In Proceedings of the *9th IEEE/ACM International Conference on Utility and Cloud Computing (UCC)*, IEEE, 43-48.
 
 
 Programming Skills
@@ -113,12 +121,12 @@ Biography
 
 `<img src="img/standard-pic.jpg" align="left" width="150" style="margin: 0 15px 15px 0" />`{=html}
 **Jingxuan Zhang** is a PhD candidate in the Department of Computer Science at
-Tongji University, advised by Prof. Y. Richard Yang. His doctoral research
-focuses on network resource discovery, abstraction and programming consistency
-for large-scale data analytics systems. He is also an active member of IETF
-ALTO WG and OpenDaylight open source community. He is sponsored by China
-Scholarship Council to be a joint PhD student at Yale university from 2018 to
-2020.
+Tongji University, advised by Prof. Y. Richard Yang. He was also a CSC (China
+Scholarship Council) sponsored visiting researcher at Yale univerisity from
+2018 to 2020. His doctoral research focuses on network resource discovery,
+abstraction and programming consistency for large-scale data analytics
+systems. He is also an active member of IETF ALTO WG and OpenDaylight open
+source community.
 <br style="clear: both;" />
 
 
