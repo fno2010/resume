@@ -1,7 +1,7 @@
 Jingxuan (Jensen) Zhang
 =======================
 
-[Markdown](https://jensen-zhang.site/resume/resume.md) -> [PDF](https://jensen-zhang.site/resume/resume.pdf), [HTML](https://jensen-zhang.site/resume/resume.html)
+[Markdown](https://jensen-zhang.site/resume/research.md) -> [PDF](https://jensen-zhang.site/resume/research.pdf), [HTML](https://jensen-zhang.site/resume/research.html)
 jensen@jensen-zhang.site
 (+86) 188-1759-8700
 skype: fno2010@live.cn
@@ -12,52 +12,6 @@ Research Interests
 *   Network and application integration
 *   Software-defined networking
 *   Machine learning in networks
-
-
-Project Experience
-------------------
-
-*   **OpenDaylight ALTO**
-
-    *Project Contact*, 2015 - present
-
-	*   Official open source implementation of the Application-Layer Traffic
-        Optimization (ALTO) protocol.
-	*   Designed and Implemented the main building blocks of ALTO in OpenDaylight.
-    *   Manage the project in the OpenDaylight community and review the code.
-    *   Created OpenALTO community (<https://github.com/openalto/>).
-
-*   **Unicorn: Unified Resource Orchestration for Multi-Domain, Geo-Distributed Data Analytics**
-
-    *Architect and Contact*, August - November 2017
-
-	*   The first multi-domain, multi-controller orchestration system for
-        scientific data analytics.
-	*   Coordinated with the collaborators from CERN, Caltech and Starlight to
-        deploy the system in Caltech HEP Data Center.
-    *   Demonstrated in SuperComputing 2017, 2018, and 2019.
-    *   Source opened at <https://github.com/openalto/mercator-setup>.
-
-*   **Devopen: SDN IDE**
-
-    *Project Lead*, 2016 - 2017
-
-	*   The first IDE supporting visual programming for Software-Defined Networking.
-    *   Integrated the complete SDN lifecycle of Dev, Op and Use.
-	*   Gave the tutorial and demonstration in OpenDaylight Summit 2016 and
-        SuperComputing 2016.
-    *   Source opened at <https://github.com/snlab/Devopen>.
-
-*   **SeL4-based HD-ElastOS** (Kortide, Shanghai)
-
-    *Intern*, Octobor 2014 - April 2015
-
-    *   A Component Assembly Runtime (CAR) embedded operating system on top of
-        state-of-the-art micro kernel.
-    *   Ported micro-kernel seL4 to some specific hardware platforms (pandanboard,
-        lamobo M1, etc.).
-    *   Ported ElastOS on top of seL4.
-
 
 Education
 ---------
@@ -75,7 +29,6 @@ Education
     *B.Sc. (Computer Science)*, 2013.03 - 2015.07
 
     *Undergraduate Student (Minor in Mathematics)*, 2011.09 - 2013.01
-
 
 Awards
 ------
@@ -126,21 +79,6 @@ Publications
 1.  Gao, K., **Zhang, J.**, Yang, Y.R. and Bi, J. 2018., Prophet: Fast Accurate Model-based Throughput Prediction for Reactive Flow in DC Networks. In Proceedings of the *37th IEEE International Conference on Computer Communications (INFOCOM)*, IEEE, 720-728.
 
 1.  Wang, W., **Zhang, J.**, Guo, D., Xiang, Q., Huang, C., Chang, J. and Zhang, L. 2016. Towards an emerging cloudware paradigm for transparent computing. In Proceedings of the *9th IEEE/ACM International Conference on Utility and Cloud Computing (UCC)*, IEEE, 43-48.
-
-
-Programming Skills
-------------------
-
-*   Very experienced with development in YANG and OpenDaylight.
-
-*   Very experienced with Python and Mininet.
-
-*   Familiar with Docker and Kubernetes.
-
-*   Familiar with full-stack web development.
-
-*   Familiar with embedded programming.
-
 
 Biography
 ---------
