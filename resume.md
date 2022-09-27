@@ -17,7 +17,7 @@ Research Interests
 Project Experience
 ------------------
 
-*   **OpenDaylight ALTO**
+*   **OpenALTO (Predecessors: OpenDaylight ALTO and Sextant)**
 
     *Project Contact*, 2015 - present
 
@@ -26,6 +26,7 @@ Project Experience
 	*   Designed and Implemented the main building blocks of ALTO in OpenDaylight.
     *   Manage the project in the OpenDaylight community and review the code.
     *   Created OpenALTO community (<https://github.com/openalto/>).
+    *   Demonstrated in IETF Hackathon 113 and 114.
 
 *   **Unicorn: Unified Resource Orchestration for Multi-Domain, Geo-Distributed Data Analytics**
 
@@ -95,25 +96,31 @@ Awards
 Internet Standards
 ------------------
 
-1. Content Delivery Network Interconnection (CDNI) Request Routing: CDNI Footprint and Capabilities Advertisement using ALTO. IETF ALTO WG. (Approved by IESG; Ready to be published as an RFC)
+1. **RFC 9275** - ALTO Extension: Path Vector
 
-1. ALTO Extension: Path Vector. IETF ALTO WG. (Approved by IESG; Ready to be published as an RFC)
+1. **RFC 9241** - Content Delivery Network Interconnection (CDNI) Request Routing: CDNI Footprint and Capabilities Advertisement using ALTO
 
-1. ALTO Extension: Entity Property Maps. IETF ALTO WG. (Approved by IESG; Ready to be published as an RFC)
+1. **RFC 9240** - ALTO Extension: Entity Property Maps
 
-1. A Yang Data Model for OAM and Management of ALTO Protocol. IETF ALTO WG. (Ready to be adopted as a WG draft)
+1. **Active Internet-Draft (IETF ALTO WG)** - A Yang Data Model for OAM and Management of ALTO Protocol
+
+1. **Active Internet-Draft (IETF ALTO WG)** - ALTO/H2: The ALTO Protocol using HTTP/2
 
 
 Publications
 ------------
 
+1. Dunefsky, J., Soleimani, M., Yang R., Ros-Giralt J., Lassnig M., Wuerthwein, F.K., Yang, Y.R., Monga, I., Gao, K. and **Zhang, J.**, 2022. Transport Control Networking: Optimizing Efficiency and Control of Data Transport for Data-Intensive Networks. In Proceedings of the ACM SIGCOMM 2022 Workshop on Network-Application Integration (NAI), ACM.
+
 1. **Zhang, J.**, 2021. IntQOE: Integrated End-to-end QoE Optimization for Edge Computing Enabled Web Application. In Proceedings of the ACM SIGCOMM 2021 Workshop on Network-Application Integration (NAI), ACM.
 
-1. **Zhang, J.**, Contreras, L., Gao, K., Cano, F. , Cano, P., Escribano, A. and Yang, Y. R., 2021. Sextant: Enabling Automated Network-aware Application Optimization in Carrier Networks. In Proceedings of the International Symposium on Integrated Network Management (IM), IFIP/IEEE.
+1. Xiang, Q., Le, F., **Zhang, J.** and Yang, Y.R., 2021. Toward Stable Interdomain Network-Application Integration. In Proceedings of the ACM SIGCOMM 2021 Workshop on Network-Application Integration (NAI), ACM.
 
-1. Cheng Y., Luo N., **Zhang, J.**, Antonopoulos T., Piskac R., Xiang Q., 2021. Looking for the Maximum Independent Set: A New Perspective on the Stable Path Problem. In Proceedings of the *40th IEEE International Conference on Computer Communications (INFOCOM)*, IEEE.
+1. **Zhang, J.**, Contreras, L., Gao, K., Cano, F. , Cano, P., Escribano, A. and Yang, Y.R., 2021. Sextant: Enabling Automated Network-aware Application Optimization in Carrier Networks. In Proceedings of the International Symposium on Integrated Network Management (IM), IFIP/IEEE.
 
-1. **Zhang, J.**, Yang, Y.R., 2020. COC: Hierarchical Coflow Ordering for WAN Bandwidth Optimization in Inter-Data Center. In Proceedings of the *Annual conference of the ACM Special Interest Group on Data Communication on the applications, technologies, architectures, and protocols for computer communication (SIGCOMM)*, ACM.
+1. Cheng Y., Luo N., **Zhang, J.**, Antonopoulos T., Piskac R. and Xiang Q., 2021. Looking for the Maximum Independent Set: A New Perspective on the Stable Path Problem. In Proceedings of the *40th IEEE International Conference on Computer Communications (INFOCOM)*, IEEE.
+
+1. **Zhang, J.** and Yang, Y.R., 2020. COC: Hierarchical Coflow Ordering for WAN Bandwidth Optimization in Inter-Data Center. In Proceedings of the *Annual conference of the ACM Special Interest Group on Data Communication on the applications, technologies, architectures, and protocols for computer communication (SIGCOMM)*, ACM.
 
 1. **Zhang, J.**, Gao, K., Yang, Y.R. and Bi, J., 2020. Prophet: Toward Fast, Error-Tolerant Model-Based Throughput Prediction for Reactive Flows in DC Networks. In *Transactions on Networking (TON)*, IEEE/ACM.
 
@@ -149,10 +156,10 @@ Biography
 **Jingxuan Zhang** is a PhD candidate in the Department of Computer Science at
 Tongji University, advised by Prof. Y. Richard Yang. He was also a CSC (China
 Scholarship Council) sponsored visiting researcher at Yale univerisity from
-2018 to 2020. His doctoral research focuses on network resource discovery,
-abstraction and programming consistency for large-scale data analytics
-systems. He is also an active member of IETF ALTO WG and OpenDaylight open
-source community.
+2018 to 2020. His doctoral research focuses on network visibility, intelligence
+and controllability for large-scale data-intensive network. He is also an
+active member of IETF ALTO WG and OpenDaylight open source community. He has
+published 3 RFCs and 2 Active WG Internet-Drafts.
 <br style="clear: both;" />
 
 

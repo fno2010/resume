@@ -8,10 +8,15 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: 1;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="resume.css" />
@@ -26,7 +31,9 @@
 <img src='http://www.gravatar.com/avatar/f3cdfac52966b00fca3e9057faf985e0?s=200' />
 </p>
 <p>
-<a href="https://jensen-zhang.site/resume/resume-cn.md">Markdown</a> -&gt; <a href="https://jensen-zhang.site/resume/resume-cn.pdf">PDF</a>, <a href="https://jensen-zhang.site/resume/resume-cn.html">HTML</a>
+<a href="https://jensen-zhang.site/resume/resume-cn.md">Markdown</a>
+-&gt; <a href="https://jensen-zhang.site/resume/resume-cn.pdf">PDF</a>,
+<a href="https://jensen-zhang.site/resume/resume-cn.html">HTML</a>
 </p>
 <p>
 jensen@jensen-zhang.site
@@ -35,40 +42,49 @@ jensen@jensen-zhang.site
 (+86) 188-1759-8700
 </p>
 <p>
-skype: fno2010@live.cn
+wechat: fno_zjx
 </p>
 </div>
 <h1 id="张静轩">张静轩</h1>
 <h2 id="项目经历">项目经历</h2>
 <ul>
-<li><p><strong>OpenDaylight ALTO</strong></p>
+<li><p><strong>OpenALTO (前身为 OpenDaylight ALTO 以及
+Sextant)</strong></p>
 <p><em>项目联系人</em>, 2015 至今</p>
 <ul>
-<li>ALTO协议官方开源实现。</li>
-<li>设计并开发了ALTO在OpenDaylight上的主要功能模块。</li>
-<li>负责项目在OpenDaylight社区的管理及代码审查。</li>
-<li>创建并维护OpenALTO开源社区 (<a href="https://github.com/openalto/" class="uri">https://github.com/openalto/</a>)。</li>
+<li>ALTO 协议官方开源实现。</li>
+<li>设计并开发了 ALTO 在 OpenDaylight 上的主要功能模块。</li>
+<li>负责项目在 OpenDaylight 社区的管理及代码审查。</li>
+<li>创建并维护 OpenALTO 开源社区 (<a href="https://github.com/openalto/"
+class="uri">https://github.com/openalto/</a>)。</li>
+<li>在 IETF Hackathon 113 及 114 上进行了系统演示。</li>
 </ul></li>
-<li><p><strong>Unicorn: Unified Resource Orchestration for Multi-Domain, Geo-Distributed Data Analytics</strong></p>
+<li><p><strong>Unicorn: Unified Resource Orchestration for Multi-Domain,
+Geo-Distributed Data Analytics</strong></p>
 <p><em>架构与联系人</em>, 2017 至 2019</p>
 <ul>
 <li>首个面向科学大数据分析的多域多控制器编排系统。</li>
-<li>协调来自欧洲原子能中心, 加州理工学院以及 Starlight 的合作者将系统部署在了加州理工学院高能物理数据中心。</li>
+<li>协调来自欧洲原子能中心, 加州理工学院以及 Starlight
+的合作者将系统部署在了加州理工学院高能物理数据中心。</li>
 <li>在 SuperComputing 2017, 2018, 及 2019 大会上进行了系统演示。</li>
-<li>代码开源： <a href="https://github.com/openalto/mercator-setup" class="uri">https://github.com/openalto/mercator-setup</a>。</li>
+<li>代码开源： <a href="https://github.com/openalto/mercator-setup"
+class="uri">https://github.com/openalto/mercator-setup</a>。</li>
 </ul></li>
 <li><p><strong>Devopen: SDN IDE</strong></p>
 <p><em>项目组长</em>, 2016 至 2017</p>
 <ul>
 <li>首个支持对软件定义网络进行可视化编程的IDE。</li>
 <li>集成了完成的软件定义网络运维生命周期。</li>
-<li>在 OpenDaylight 2016 峰会以及 SuperComputing 2016 大会上进行了系统演示及教学。</li>
-<li>代码开源：<a href="https://github.com/snlab/Devopen" class="uri">https://github.com/snlab/Devopen</a>。</li>
+<li>在 OpenDaylight 2016 峰会以及 SuperComputing 2016
+大会上进行了系统演示及教学。</li>
+<li>代码开源：<a href="https://github.com/snlab/Devopen"
+class="uri">https://github.com/snlab/Devopen</a>。</li>
 </ul></li>
 <li><p><strong>SeL4-based HD-ElastOS</strong> (Kortide, Shanghai)</p>
 <p><em>实习</em>, 2014.10 至 2015.04</p>
 <ul>
-<li>将 seL4 微内核移植到多个嵌入式硬件平台上 (pandanboard, lamobo M1 等)。</li>
+<li>将 seL4 微内核移植到多个嵌入式硬件平台上 (pandanboard, lamobo M1
+等)。</li>
 <li>将 ElastOS 嵌入式系统的运行时移植到 seL4 微内核上。</li>
 </ul></li>
 </ul>
@@ -95,23 +111,78 @@ skype: fno2010@live.cn
 <ul>
 <li><p><strong>互联网标准</strong></p>
 <ol type="1">
-<li><p>Content Delivery Network Interconnection (CDNI) Request Routing: CDNI Footprint and Capabilities Advertisement using ALTO. IETF ALTO WG. (已通过 IESG 评审, 即将发表为RFC)</p></li>
-<li><p>ALTO Extension: Path Vector. IETF ALTO WG. (已通过 IESG 评审, 即将发表为RFC)</p></li>
-<li><p>ALTO Extension: Entity Property Maps. IETF ALTO WG. (已通过 IESG 评审, 即将发表为RFC)</p></li>
-<li><p>A Yang Data Model for OAM and Management of ALTO Protocol. IETF ALTO WG. (即将被采用为工作组草案)</p></li>
+<li><p><strong>RFC 9275</strong> - ALTO Extension: Path Vector</p></li>
+<li><p><strong>RFC 9241</strong> - Content Delivery Network
+Interconnection (CDNI) Request Routing: CDNI Footprint and Capabilities
+Advertisement using ALTO</p></li>
+<li><p><strong>RFC 9240</strong> - ALTO Extension: Entity Property
+Maps</p></li>
+<li><p><strong>Active Internet-Draft (IETF ALTO WG)</strong> - A Yang
+Data Model for OAM and Management of ALTO Protocol</p></li>
+<li><p><strong>Active Internet-Draft (IETF ALTO WG)</strong> - ALTO/H2:
+The ALTO Protocol using HTTP/2</p></li>
 </ol></li>
 <li><p><strong>会议/期刊</strong></p>
 <ol type="1">
-<li><p><strong>Zhang, J.</strong>, 2021. IntQOE: Integrated End-to-end QoE Optimization for Edge Computing Enabled Web Application. In Proceedings of the ACM SIGCOMM 2021 Workshop on Network-Application Integration (NAI), ACM.</p></li>
-<li><p><strong>Zhang, J.</strong>, Contreras, L., Gao, K., Cano, F. , Cano, P., Escribano, A. and Yang, Y. R., 2021. Sextant: Enabling Automated Network-aware Application Optimization in Carrier Networks. In Proceedings of the International Symposium on Integrated Network Management (IM), IFIP/IEEE.</p></li>
-<li><p>Cheng Y., Luo N., <strong>Zhang, J.</strong>, Antonopoulos T., Piskac R., Xiang Q., 2021. Looking for the Maximum Independent Set: A New Perspective on the Stable Path Problem. In Proceedings of the <em>40th IEEE International Conference on Computer Communications (INFOCOM)</em>, IEEE.</p></li>
-<li><p><strong>Zhang, J.</strong>, Yang, Y.R., 2020. COC: Hierarchical Coflow Ordering for WAN Bandwidth Optimization in Inter-Data Center. In Proceedings of the <em>Annual conference of the ACM Special Interest Group on Data Communication on the applications, technologies, architectures, and protocols for computer communication (SIGCOMM)</em>, ACM.</p></li>
-<li><p><strong>Zhang, J.</strong>, Gao, K., Yang, Y.R. and Bi, J., 2020. Prophet: Toward Fast, Error-Tolerant Model-Based Throughput Prediction for Reactive Flows in DC Networks. In <em>Transactions on Networking (TON)</em>, IEEE/ACM.</p></li>
-<li><p>Xiang, Q., <strong>Zhang, J.</strong>, Gao, K., Lim, Y.S., Le, F., Li, G. and Yang, Y.R., 2020, July. Toward Optimal Software-Defined Interdomain Routing. In Proceedings of the <em>39th IEEE International Conference on Computer Communications (INFOCOM)</em>, IEEE, 1529-1538.</p></li>
-<li><p>Xiang, Q., Wang, X., <strong>Zhang, J.</strong>, Newman, H., Yang, Y.R. and Liu, J., 2019. Unicorn: Unified Resource Orchestration for Multi-Domain, Geo-Distributed Data Analytics. In <em>Future Generation Computer Systems</em>, Elsevier.</p></li>
-<li><p>Xiang, Q., <strong>Zhang, J.</strong>, Wang, X., Liu, J., Guok, C., Le, F., MacAuley, J., Newman, H. and Yang, Y.R., 2018. Fine-Grained, Multi-Domain Network Resource Abstraction as a Fundamental Primitive to Enable High-Performance, Collaborative Data Sciences. In Proceedings of the <em>International Conference for High Performance Computing, Networking, Storage and Analysis (SC)</em>, ACM.</p></li>
-<li><p>Gao, K., <strong>Zhang, J.</strong>, Yang, Y.R. and Bi, J. 2018., Prophet: Fast Accurate Model-based Throughput Prediction for Reactive Flow in DC Networks. In Proceedings of the <em>37th IEEE International Conference on Computer Communications (INFOCOM)</em>, IEEE, 720-728.</p></li>
-<li><p>Wang, W., <strong>Zhang, J.</strong>, Guo, D., Xiang, Q., Huang, C., Chang, J. and Zhang, L. 2016. Towards an emerging cloudware paradigm for transparent computing. In Proceedings of the <em>9th IEEE/ACM International Conference on Utility and Cloud Computing (UCC)</em>, IEEE, 43-48.</p></li>
+<li><p>Dunefsky, J., Soleimani, M., Yang R., Ros-Giralt J., Lassnig M.,
+Wuerthwein, F.K., Yang, Y.R., Monga, I., Gao, K. and <strong>Zhang,
+J.</strong>, 2022. Transport Control Networking: Optimizing Efficiency
+and Control of Data Transport for Data-Intensive Networks. In
+Proceedings of the ACM SIGCOMM 2022 Workshop on Network-Application
+Integration (NAI), ACM.</p></li>
+<li><p><strong>Zhang, J.</strong>, 2021. IntQOE: Integrated End-to-end
+QoE Optimization for Edge Computing Enabled Web Application. In
+Proceedings of the ACM SIGCOMM 2021 Workshop on Network-Application
+Integration (NAI), ACM.</p></li>
+<li><p>Xiang, Q., Le, F., <strong>Zhang, J.</strong> and Yang, Y.R.,
+2021. Toward Stable Interdomain Network-Application Integration. In
+Proceedings of the ACM SIGCOMM 2021 Workshop on Network-Application
+Integration (NAI), ACM.</p></li>
+<li><p><strong>Zhang, J.</strong>, Contreras, L., Gao, K., Cano, F. ,
+Cano, P., Escribano, A. and Yang, Y.R., 2021. Sextant: Enabling
+Automated Network-aware Application Optimization in Carrier Networks. In
+Proceedings of the International Symposium on Integrated Network
+Management (IM), IFIP/IEEE.</p></li>
+<li><p>Cheng Y., Luo N., <strong>Zhang, J.</strong>, Antonopoulos T.,
+Piskac R. and Xiang Q., 2021. Looking for the Maximum Independent Set: A
+New Perspective on the Stable Path Problem. In Proceedings of the
+<em>40th IEEE International Conference on Computer Communications
+(INFOCOM)</em>, IEEE.</p></li>
+<li><p><strong>Zhang, J.</strong> and Yang, Y.R., 2020. COC:
+Hierarchical Coflow Ordering for WAN Bandwidth Optimization in
+Inter-Data Center. In Proceedings of the <em>Annual conference of the
+ACM Special Interest Group on Data Communication on the applications,
+technologies, architectures, and protocols for computer communication
+(SIGCOMM)</em>, ACM.</p></li>
+<li><p><strong>Zhang, J.</strong>, Gao, K., Yang, Y.R. and Bi, J., 2020.
+Prophet: Toward Fast, Error-Tolerant Model-Based Throughput Prediction
+for Reactive Flows in DC Networks. In <em>Transactions on Networking
+(TON)</em>, IEEE/ACM.</p></li>
+<li><p>Xiang, Q., <strong>Zhang, J.</strong>, Gao, K., Lim, Y.S., Le,
+F., Li, G. and Yang, Y.R., 2020, July. Toward Optimal Software-Defined
+Interdomain Routing. In Proceedings of the <em>39th IEEE International
+Conference on Computer Communications (INFOCOM)</em>, IEEE,
+1529-1538.</p></li>
+<li><p>Xiang, Q., Wang, X., <strong>Zhang, J.</strong>, Newman, H.,
+Yang, Y.R. and Liu, J., 2019. Unicorn: Unified Resource Orchestration
+for Multi-Domain, Geo-Distributed Data Analytics. In <em>Future
+Generation Computer Systems</em>, Elsevier.</p></li>
+<li><p>Xiang, Q., <strong>Zhang, J.</strong>, Wang, X., Liu, J., Guok,
+C., Le, F., MacAuley, J., Newman, H. and Yang, Y.R., 2018. Fine-Grained,
+Multi-Domain Network Resource Abstraction as a Fundamental Primitive to
+Enable High-Performance, Collaborative Data Sciences. In Proceedings of
+the <em>International Conference for High Performance Computing,
+Networking, Storage and Analysis (SC)</em>, ACM.</p></li>
+<li><p>Gao, K., <strong>Zhang, J.</strong>, Yang, Y.R. and Bi, J. 2018.,
+Prophet: Fast Accurate Model-based Throughput Prediction for Reactive
+Flow in DC Networks. In Proceedings of the <em>37th IEEE International
+Conference on Computer Communications (INFOCOM)</em>, IEEE,
+720-728.</p></li>
+<li><p>Wang, W., <strong>Zhang, J.</strong>, Guo, D., Xiang, Q., Huang,
+C., Chang, J. and Zhang, L. 2016. Towards an emerging cloudware paradigm
+for transparent computing. In Proceedings of the <em>9th IEEE/ACM
+International Conference on Utility and Cloud Computing (UCC)</em>,
+IEEE, 43-48.</p></li>
 </ol></li>
 </ul>
 <h2 id="专业技能">专业技能</h2>
@@ -124,8 +195,15 @@ skype: fno2010@live.cn
 <li><p>熟悉 ARM 嵌入式编程。</p></li>
 </ul>
 <h2 id="个人简介">个人简介</h2>
-<p><img src="img/standard-pic.jpg" align="left" width="150" style="margin: 0 15px 15px 0" /> 本人系同济大学计算机系在读博士研究生，师从美国耶鲁大学 Y. Richard Yang (杨阳) 教授。本人于 2018 至 2020 年曾获国家留学基金委 (CSC) 联合培养博士奖学金资助，赴美国耶鲁大学进行学术交流。博士期间主要研究方向为大规模数据分析系统中网络资源发现、抽象及编程一致性，曾在TON，INFOCOM，SC等顶级国际会议和期刊发表学术成果。本人也活跃于 IETF ALTO 互联网标准工作组以及 OpenDaylight 开源软件社区，已发表数篇网络标准草案，包括 3 篇即将发表为 RFC 以及 1 篇工作组草案。 <br style="clear: both;" /></p>
+<p><img src="img/standard-pic.jpg" align="left" width="150" style="margin: 0 15px 15px 0" />
+本人系同济大学计算机系在读博士研究生，师从美国耶鲁大学 Y. Richard Yang
+(杨阳) 教授。本人于 2018 至 2020 年曾获国家留学基金委 (CSC)
+联合培养博士奖学金资助，赴美国耶鲁大学进行学术交流。博士期间主要研究方向为大规模数据密集型网络的资源可见性、智能化以及控制优化的研究，曾在TON，INFOCOM，SC等顶级国际会议和期刊发表学术成果。本人也活跃于
+IETF ALTO 互联网标准工作组以及 OpenDaylight
+开源软件社区，已发表数篇网络标准及草案，包括 3 篇 RFC 以及 2
+篇工作组草案。 <br style="clear: both;" /></p>
 <hr />
-<p>详情请见我的个人主页: <a href="https://jensen-zhang.site/" class="uri">https://jensen-zhang.site/</a></p>
+<p>详情请见我的个人主页: <a href="https://jensen-zhang.site/"
+class="uri">https://jensen-zhang.site/</a></p>
 </body>
 </html>

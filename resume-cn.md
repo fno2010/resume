@@ -4,20 +4,21 @@
 [Markdown](https://jensen-zhang.site/resume/resume-cn.md) -> [PDF](https://jensen-zhang.site/resume/resume-cn.pdf), [HTML](https://jensen-zhang.site/resume/resume-cn.html)
 jensen@jensen-zhang.site
 (+86) 188-1759-8700
-skype: fno2010@live.cn
+wechat: fno\_zjx
 
 
 项目经历
 ------------------
 
-*   **OpenDaylight ALTO**
+*   **OpenALTO (前身为 OpenDaylight ALTO 以及 Sextant)**
 
     *项目联系人*, 2015 至今
 
-	*   ALTO协议官方开源实现。
-	*   设计并开发了ALTO在OpenDaylight上的主要功能模块。
-    *   负责项目在OpenDaylight社区的管理及代码审查。
-    *   创建并维护OpenALTO开源社区 (<https://github.com/openalto/>)。
+	*   ALTO 协议官方开源实现。
+	*   设计并开发了 ALTO 在 OpenDaylight 上的主要功能模块。
+    *   负责项目在 OpenDaylight 社区的管理及代码审查。
+    *   创建并维护 OpenALTO 开源社区 (<https://github.com/openalto/>)。
+    *   在 IETF Hackathon 113 及 114 上进行了系统演示。
 
 *   **Unicorn: Unified Resource Orchestration for Multi-Domain, Geo-Distributed Data Analytics**
 
@@ -84,23 +85,29 @@ skype: fno2010@live.cn
 
 * **互联网标准**
 
-    1. Content Delivery Network Interconnection (CDNI) Request Routing: CDNI Footprint and Capabilities Advertisement using ALTO. IETF ALTO WG. (已通过 IESG 评审, 即将发表为RFC)
+    1. **RFC 9275** - ALTO Extension: Path Vector
 
-    1. ALTO Extension: Path Vector. IETF ALTO WG. (已通过 IESG 评审, 即将发表为RFC)
+    1. **RFC 9241** - Content Delivery Network Interconnection (CDNI) Request Routing: CDNI Footprint and Capabilities Advertisement using ALTO
 
-    1. ALTO Extension: Entity Property Maps. IETF ALTO WG. (已通过 IESG 评审, 即将发表为RFC)
+    1. **RFC 9240** - ALTO Extension: Entity Property Maps
 
-    1. A Yang Data Model for OAM and Management of ALTO Protocol. IETF ALTO WG. (即将被采用为工作组草案)
+    1. **Active Internet-Draft (IETF ALTO WG)** - A Yang Data Model for OAM and Management of ALTO Protocol
+
+    1. **Active Internet-Draft (IETF ALTO WG)** - ALTO/H2: The ALTO Protocol using HTTP/2
 
 * **会议/期刊**
 
+    1. Dunefsky, J., Soleimani, M., Yang R., Ros-Giralt J., Lassnig M., Wuerthwein, F.K., Yang, Y.R., Monga, I., Gao, K. and **Zhang, J.**, 2022. Transport Control Networking: Optimizing Efficiency and Control of Data Transport for Data-Intensive Networks. In Proceedings of the ACM SIGCOMM 2022 Workshop on Network-Application Integration (NAI), ACM.
+
     1. **Zhang, J.**, 2021. IntQOE: Integrated End-to-end QoE Optimization for Edge Computing Enabled Web Application. In Proceedings of the ACM SIGCOMM 2021 Workshop on Network-Application Integration (NAI), ACM.
 
-    1. **Zhang, J.**, Contreras, L., Gao, K., Cano, F. , Cano, P., Escribano, A. and Yang, Y. R., 2021. Sextant: Enabling Automated Network-aware Application Optimization in Carrier Networks. In Proceedings of the International Symposium on Integrated Network Management (IM), IFIP/IEEE.
+    1. Xiang, Q., Le, F., **Zhang, J.** and Yang, Y.R., 2021. Toward Stable Interdomain Network-Application Integration. In Proceedings of the ACM SIGCOMM 2021 Workshop on Network-Application Integration (NAI), ACM.
 
-    1. Cheng Y., Luo N., **Zhang, J.**, Antonopoulos T., Piskac R., Xiang Q., 2021. Looking for the Maximum Independent Set: A New Perspective on the Stable Path Problem. In Proceedings of the *40th IEEE International Conference on Computer Communications (INFOCOM)*, IEEE.
+    1. **Zhang, J.**, Contreras, L., Gao, K., Cano, F. , Cano, P., Escribano, A. and Yang, Y.R., 2021. Sextant: Enabling Automated Network-aware Application Optimization in Carrier Networks. In Proceedings of the International Symposium on Integrated Network Management (IM), IFIP/IEEE.
 
-    1. **Zhang, J.**, Yang, Y.R., 2020. COC: Hierarchical Coflow Ordering for WAN Bandwidth Optimization in Inter-Data Center. In Proceedings of the *Annual conference of the ACM Special Interest Group on Data Communication on the applications, technologies, architectures, and protocols for computer communication (SIGCOMM)*, ACM.
+    1. Cheng Y., Luo N., **Zhang, J.**, Antonopoulos T., Piskac R. and Xiang Q., 2021. Looking for the Maximum Independent Set: A New Perspective on the Stable Path Problem. In Proceedings of the *40th IEEE International Conference on Computer Communications (INFOCOM)*, IEEE.
+
+    1. **Zhang, J.** and Yang, Y.R., 2020. COC: Hierarchical Coflow Ordering for WAN Bandwidth Optimization in Inter-Data Center. In Proceedings of the *Annual conference of the ACM Special Interest Group on Data Communication on the applications, technologies, architectures, and protocols for computer communication (SIGCOMM)*, ACM.
 
     1. **Zhang, J.**, Gao, K., Yang, Y.R. and Bi, J., 2020. Prophet: Toward Fast, Error-Tolerant Model-Based Throughput Prediction for Reactive Flows in DC Networks. In *Transactions on Networking (TON)*, IEEE/ACM.
 
@@ -135,7 +142,7 @@ skype: fno2010@live.cn
 ---------
 
 `<img src="img/standard-pic.jpg" align="left" width="150" style="margin: 0 15px 15px 0" />`{=html}
-本人系同济大学计算机系在读博士研究生，师从美国耶鲁大学 Y. Richard Yang (杨阳) 教授。本人于 2018 至 2020 年曾获国家留学基金委 (CSC) 联合培养博士奖学金资助，赴美国耶鲁大学进行学术交流。博士期间主要研究方向为大规模数据分析系统中网络资源发现、抽象及编程一致性，曾在TON，INFOCOM，SC等顶级国际会议和期刊发表学术成果。本人也活跃于 IETF ALTO 互联网标准工作组以及 OpenDaylight 开源软件社区，已发表数篇网络标准草案，包括 3 篇即将发表为 RFC 以及 1 篇工作组草案。
+本人系同济大学计算机系在读博士研究生，师从美国耶鲁大学 Y. Richard Yang (杨阳) 教授。本人于 2018 至 2020 年曾获国家留学基金委 (CSC) 联合培养博士奖学金资助，赴美国耶鲁大学进行学术交流。博士期间主要研究方向为大规模数据密集型网络的资源可见性、智能化以及控制优化的研究，曾在TON，INFOCOM，SC等顶级国际会议和期刊发表学术成果。本人也活跃于 IETF ALTO 互联网标准工作组以及 OpenDaylight 开源软件社区，已发表数篇网络标准及草案，包括 3 篇 RFC 以及 2 篇工作组草案。
 <br style="clear: both;" />
 
 
