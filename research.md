@@ -33,6 +33,8 @@ Education
 Awards
 ------
 
+*   ACM SIGCOMM NAI 2022 Best Paper (2022).
+
 *   Participant Award of ACM Student Research Competition (2020).
 
 *   China Scholarship Council Support (2018).
@@ -54,14 +56,12 @@ Internet Standards
 
 1. **RFC 9240** - ALTO Extension: Entity Property Maps
 
-1. **Active Internet-Draft (IETF ALTO WG)** - A Yang Data Model for OAM and Management of ALTO Protocol
-
-1. **Active Internet-Draft (IETF ALTO WG)** - ALTO/H2: The ALTO Protocol using HTTP/2
+1. **Active Internet-Draft (IETF ALTO WG; In WG Last Call)** - YANG Data Models for the Application-Layer Traffic Optimization (ALTO) Protocol
 
 Publications
 ------------
 
-1. Dunefsky, J., Soleimani, M., Yang R., Ros-Giralt J., Lassnig M., Wuerthwein, F.K., Yang, Y.R., Monga, I., Gao, K. and **Zhang, J.**, 2022. Transport Control Networking: Optimizing Efficiency and Control of Data Transport for Data-Intensive Networks. In Proceedings of the ACM SIGCOMM 2022 Workshop on Network-Application Integration (NAI), ACM.
+1. Dunefsky, J., Soleimani, M., Yang R., Ros-Giralt J., Lassnig M., Wuerthwein, F.K., Yang, Y.R., Monga, I., Gao, K. and **Zhang, J.**, 2022. Transport Control Networking: Optimizing Efficiency and Control of Data Transport for Data-Intensive Networks. In Proceedings of the ACM SIGCOMM 2022 Workshop on Network-Application Integration (NAI), ACM. **(ACM SIGCOMM NAI 2022 Best Paper)**
 
 1. **Zhang, J.**, 2021. IntQOE: Integrated End-to-end QoE Optimization for Edge Computing Enabled Web Application. In Proceedings of the ACM SIGCOMM 2021 Workshop on Network-Application Integration (NAI), ACM.
 
