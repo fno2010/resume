@@ -50,13 +50,13 @@ Awards
 Internet Standards
 ------------------
 
-1. **RFC 9275** - ALTO Extension: Path Vector
+1. **Active Internet-Draft (Submitted to IESG for Publication)** - YANG Data Models for the Application-Layer Traffic Optimization (ALTO) Protocol. 2024, Jan.
 
-1. **RFC 9241** - Content Delivery Network Interconnection (CDNI) Request Routing: CDNI Footprint and Capabilities Advertisement using ALTO
+1. **RFC 9275** - ALTO Extension: Path Vector. 2022, Sept.
 
-1. **RFC 9240** - ALTO Extension: Entity Property Maps
+1. **RFC 9241** - Content Delivery Network Interconnection (CDNI) Request Routing: CDNI Footprint and Capabilities Advertisement using ALTO. 2022, July.
 
-1. **Active Internet-Draft (IETF ALTO WG; In WG Last Call)** - YANG Data Models for the Application-Layer Traffic Optimization (ALTO) Protocol
+1. **RFC 9240** - ALTO Extension: Entity Property Maps. 2022, July.
 
 Publications
 ------------
@@ -94,8 +94,9 @@ Tongji University, advised by Prof. Y. Richard Yang. He was also a CSC (China
 Scholarship Council) sponsored visiting researcher at Yale univerisity from
 2018 to 2020. His doctoral research focuses on network visibility, intelligence
 and controllability for large-scale data-intensive network. He is also an
-active member of IETF ALTO WG and OpenDaylight open source community. He has
-published 3 RFCs and 2 Active WG Internet-Drafts.
+active member of IETF ALTO WG, who has published 3 RFCs and 1 proposed standard
+adopted by IESG. Meanwhile, he is actively making contributions in open source
+communities including OpenDaylight, CERN Rucio and so on.
 <br style="clear: both;" />
 
 

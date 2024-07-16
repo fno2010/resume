@@ -11,8 +11,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -129,15 +132,16 @@ Competition (2012).</p></li>
 </ul>
 <h2 id="internet-standards">Internet Standards</h2>
 <ol type="1">
-<li><p><strong>RFC 9275</strong> - ALTO Extension: Path Vector</p></li>
+<li><p><strong>Active Internet-Draft (Submitted to IESG for
+Publication)</strong> - YANG Data Models for the Application-Layer
+Traffic Optimization (ALTO) Protocol. 2024, Jan.</p></li>
+<li><p><strong>RFC 9275</strong> - ALTO Extension: Path Vector. 2022,
+Sept.</p></li>
 <li><p><strong>RFC 9241</strong> - Content Delivery Network
 Interconnection (CDNI) Request Routing: CDNI Footprint and Capabilities
-Advertisement using ALTO</p></li>
-<li><p><strong>RFC 9240</strong> - ALTO Extension: Entity Property
-Maps</p></li>
-<li><p><strong>Active Internet-Draft (IETF ALTO WG; In WG Last
-Call)</strong> - YANG Data Models for the Application-Layer Traffic
-Optimization (ALTO) Protocol</p></li>
+Advertisement using ALTO. 2022, July.</p></li>
+<li><p><strong>RFC 9240</strong> - ALTO Extension: Entity Property Maps.
+2022, July.</p></li>
 </ol>
 <h2 id="publications">Publications</h2>
 <ol type="1">
@@ -219,8 +223,10 @@ He was also a CSC (China Scholarship Council) sponsored visiting
 researcher at Yale univerisity from 2018 to 2020. His doctoral research
 focuses on network visibility, intelligence and controllability for
 large-scale data-intensive network. He is also an active member of IETF
-ALTO WG and OpenDaylight open source community. He has published 3 RFCs
-and 2 Active WG Internet-Drafts. <br style="clear: both;" /></p>
+ALTO WG, who has published 3 RFCs and 1 proposed standard adopted by
+IESG. Meanwhile, he is actively making contributions in open source
+communities including OpenDaylight, CERN Rucio and so on.
+<br style="clear: both;" /></p>
 <hr />
 <p>Details for me, visit my homepage: <a
 href="https://jensen-zhang.site/"

@@ -4,6 +4,7 @@ PYTHON=python2
 PDFS=$(SRC:.md=.pdf)
 HTML=$(SRC:.md=.html)
 LATEX_TEMPLATE=./pandoc-templates/default.latex
+PANDOCARGS=--pdf-engine=xelatex
 
 all:    clean $(PDFS) $(HTML)
 

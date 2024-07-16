@@ -11,8 +11,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -42,19 +45,16 @@ jensen@jensen-zhang.site
 <p>
 (+86) 188-1759-8700
 </p>
-<p>
-wechat: fno_zjx
-</p>
 </div>
 <h1 id="张静轩">张静轩</h1>
 <h2 id="个人简介">个人简介</h2>
 <p>本人系同济大学计算机系在读博士研究生，师从美国耶鲁大学 Y. Richard
 Yang (杨阳) 教授。本人于 2018 至 2020 年曾获国家留学基金委 (CSC)
-联合培养博士奖学金资助，赴美国耶鲁大学进行学术交流。博士期间主要研究方向为大规模数据分析系统中网络资源发现、抽象及编程一致性，曾在
+联合培养博士奖学金资助，赴美国耶鲁大学进行学术交流。博士期间主要研究方向为大规模数据分析系统中网络资源发现、抽象及网络应用联合优化，曾在
 TON，INFOCOM，SC 等顶级国际会议和期刊发表学术成果。本人也活跃于 IETF
-ALTO 互联网标准工作组以及 OpenDaylight
-开源软件社区，已发表数篇网络标准草案，包括 3 篇 RFC 以及 2
-篇工作组草案。</p>
+互联网标准工作组，已发表数篇网络标准草案，包括 3 篇 RFC 以及 1 篇已被
+IESG 采用的待发布标准。同时，本人也活跃于 OpenDaylight、CERN Rucio
+等开源软件社区，为多个开源软件项目贡献代码。</p>
 <h2 id="研究方向">研究方向</h2>
 <ul>
 <li>网络应用联合优化</li>
@@ -85,15 +85,16 @@ ALTO 互联网标准工作组以及 OpenDaylight
 <ul>
 <li><p><strong>互联网标准</strong></p>
 <ol type="1">
-<li><p><strong>RFC 9275</strong> - ALTO Extension: Path Vector</p></li>
+<li><p><strong>Active Internet-Draft (Submitted to IESG for
+Publication)</strong> - YANG Data Models for the Application-Layer
+Traffic Optimization (ALTO) Protocol. 2024, Jan.</p></li>
+<li><p><strong>RFC 9275</strong> - ALTO Extension: Path Vector. 2022,
+Sept.</p></li>
 <li><p><strong>RFC 9241</strong> - Content Delivery Network
 Interconnection (CDNI) Request Routing: CDNI Footprint and Capabilities
-Advertisement using ALTO</p></li>
-<li><p><strong>RFC 9240</strong> - ALTO Extension: Entity Property
-Maps</p></li>
-<li><p><strong>Active Internet-Draft (IETF ALTO WG; In WG Last
-Call)</strong> - YANG Data Models for the Application-Layer Traffic
-Optimization (ALTO) Protocol</p></li>
+Advertisement using ALTO. 2022, July.</p></li>
+<li><p><strong>RFC 9240</strong> - ALTO Extension: Entity Property Maps.
+2022, July.</p></li>
 </ol></li>
 <li><p><strong>会议/期刊</strong></p>
 <ol type="1">

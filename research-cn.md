@@ -4,12 +4,11 @@
 [Markdown](https://jensen-zhang.site/resume/research-cn.md) -> [PDF](https://jensen-zhang.site/resume/research-cn.pdf), [HTML](https://jensen-zhang.site/resume/research-cn.html)
 jensen@jensen-zhang.site
 (+86) 188-1759-8700
-wechat: fno\_zjx
 
 个人简介
 ---------
 
-本人系同济大学计算机系在读博士研究生，师从美国耶鲁大学 Y. Richard Yang (杨阳) 教授。本人于 2018 至 2020 年曾获国家留学基金委 (CSC) 联合培养博士奖学金资助，赴美国耶鲁大学进行学术交流。博士期间主要研究方向为大规模数据分析系统中网络资源发现、抽象及编程一致性，曾在 TON，INFOCOM，SC 等顶级国际会议和期刊发表学术成果。本人也活跃于 IETF ALTO 互联网标准工作组以及 OpenDaylight 开源软件社区，已发表数篇网络标准草案，包括 3 篇 RFC 以及 2 篇工作组草案。
+本人系同济大学计算机系在读博士研究生，师从美国耶鲁大学 Y. Richard Yang (杨阳) 教授。本人于 2018 至 2020 年曾获国家留学基金委 (CSC) 联合培养博士奖学金资助，赴美国耶鲁大学进行学术交流。博士期间主要研究方向为大规模数据分析系统中网络资源发现、抽象及网络应用联合优化，曾在 TON，INFOCOM，SC 等顶级国际会议和期刊发表学术成果。本人也活跃于 IETF 互联网标准工作组，已发表数篇网络标准草案，包括 3 篇 RFC 以及 1 篇已被 IESG 采用的待发布标准。同时，本人也活跃于 OpenDaylight、CERN Rucio 等开源软件社区，为多个开源软件项目贡献代码。
 
 研究方向
 ---------
@@ -59,13 +58,13 @@ wechat: fno\_zjx
 
 * **互联网标准**
 
-    1. **RFC 9275** - ALTO Extension: Path Vector
+    1. **Active Internet-Draft (Submitted to IESG for Publication)** - YANG Data Models for the Application-Layer Traffic Optimization (ALTO) Protocol. 2024, Jan.
 
-    1. **RFC 9241** - Content Delivery Network Interconnection (CDNI) Request Routing: CDNI Footprint and Capabilities Advertisement using ALTO
+    1. **RFC 9275** - ALTO Extension: Path Vector. 2022, Sept.
 
-    1. **RFC 9240** - ALTO Extension: Entity Property Maps
+    1. **RFC 9241** - Content Delivery Network Interconnection (CDNI) Request Routing: CDNI Footprint and Capabilities Advertisement using ALTO. 2022, July.
 
-    1. **Active Internet-Draft (IETF ALTO WG; In WG Last Call)** - YANG Data Models for the Application-Layer Traffic Optimization (ALTO) Protocol
+    1. **RFC 9240** - ALTO Extension: Entity Property Maps. 2022, July.
 
 * **会议/期刊**
 
