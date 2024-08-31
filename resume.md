@@ -17,14 +17,27 @@ Research Interests
 Project Experience
 ------------------
 
+*   **CERN FTS/Rucio**
+
+    *Contributor*, 2022 - present
+
+    *   Collaborated with CERN FTS/Rucio open source community to improve
+        performance of data transfer in large-scale scientific networks.
+    *   Developed a network visibility and analysis tool for FTS.
+    *   Improved data transfer component of Rucio by integrating ALTO support.
+    *   Maintained a setup tool to quickly set up the development environment
+        for FTS and Rucio using container and virtualization technologies
+        (<https://github.com/fno2010/fts3-quick-start>).
+    *   Presented and demonstrated in SuperComputing 2022.
+
 *   **OpenALTO (Predecessors: OpenDaylight ALTO and Sextant)**
 
     *Project Contact*, 2015 - present
 
-	*   Official open source implementation of the Application-Layer Traffic
+	*   Provided a referenced open source implementation of the Application-Layer Traffic
         Optimization (ALTO) protocol.
 	*   Designed and Implemented the main building blocks of ALTO in OpenDaylight.
-    *   Manage the project in the OpenDaylight community and review the code.
+    *   Managed the project in the OpenDaylight community and reviewed the code.
     *   Created OpenALTO community (<https://github.com/openalto/>).
     *   Demonstrated in IETF Hackathon 113 and 114.
 
@@ -69,7 +82,7 @@ Education
 
 *   **Tongji University**
 
-    *Ph.D. Student (Computer Science)*, 2017.03 - now
+    *Ph.D. Student (Computer Science)*, 2017.03 - 2018.11, 2020.10 - now
 
     *Master Student (Computer Science)*, 2015.09 - 2017.03
 

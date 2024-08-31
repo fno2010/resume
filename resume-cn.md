@@ -10,11 +10,21 @@ wechat: fno\_zjx
 项目经历
 ------------------
 
+*   **CERN FTS/Rucio**
+
+    *贡献者*, 2022 至今
+
+    *   与 CERN 的 FTS 和 Rucio 开源软件团队合作，改进大规模科学试验网络中数据传输的性能。
+    *   为 FTS 开发了网络可见性与分析工具。
+    *   通过集成对 ALTO 协议的支持，改进了 Rucio 的数据传输模块。
+    *   维护一个利用容器与虚拟化技术快速创建 FTS 与 Rucio 开发环境的工具 (<https://github.com/fno2010/fts3-quick-start>))。
+    *   在 SuperComputing 2022 大会上进行了宣讲与展示。
+
 *   **OpenALTO (前身为 OpenDaylight ALTO 以及 Sextant)**
 
     *项目联系人*, 2015 至今
 
-	*   ALTO 协议官方开源实现。
+	*   ALTO 协议官方开源参考实现。
 	*   设计并开发了 ALTO 在 OpenDaylight 上的主要功能模块。
     *   负责项目在 OpenDaylight 社区的管理及代码审查。
     *   创建并维护 OpenALTO 开源社区 (<https://github.com/openalto/>)。
@@ -55,7 +65,7 @@ wechat: fno\_zjx
 
 *   **同济大学**
 
-    *博士 (计算机科学)*, 2017.03 - 至今
+    *博士 (计算机科学)*, 2017.03 - 2018.11, 2020.10 - 至今
 
     *硕士 (计算机科学)*, 2015.09 - 2017.03
 
